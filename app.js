@@ -18,3 +18,5 @@ divideTheNumbers(a,b)
 
  4) Older way work in the Non-strict mode but the new way work in the Strict mode.
  */
+
+
